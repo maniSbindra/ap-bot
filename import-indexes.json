@@ -1,0 +1,35 @@
+{
+    "value": [
+        {
+            "@search.action": "upload",
+            "id": "1",
+            "productCategory": ["external"],
+            "productCode": "asdfasd23e",
+            "productName": "External Paint",
+            "fastFacts": [
+                "fact1",
+                "fact2",
+                "fact3",
+                "fact4"
+            ],
+            "applications": [
+                "application1",
+                "application2",
+                "application3",
+                "application4"
+            ],
+            "features": [
+                "feature1",
+                "feature2",
+                "feature3",
+                "feature4"
+            ],
+            "benefits": [
+                "benefit1",
+                "benefit2",
+                "benefit3",
+                "benefits4"
+            ]
+        }
+    ]
+}
